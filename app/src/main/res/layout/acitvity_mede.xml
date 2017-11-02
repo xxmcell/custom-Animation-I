@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    android:id="@+id/acitvity_mede"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/backgroud">
+    <FrameLayout
+        android:background="@mipmap/water"
+        android:layout_gravity="center"
+        android:layout_width="277.33dp"
+        android:layout_height="334.66dp">
+        <FrameLayout
+            android:layout_marginTop="36dp"
+            android:layout_gravity="center_horizontal"
+            android:background="@mipmap/rain_bow"
+            android:layout_width="200dp"
+            android:layout_height="200dp">
+            <com.itheima.jason.mydiyview.view.Road
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+    <include layout="@layout/car"/>
+        </FrameLayout>
+    </FrameLayout>
+</FrameLayout>
