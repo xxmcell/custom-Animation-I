@@ -1,4 +1,4 @@
-package com.itheima.jason.mydiyview.view;
+package com.it.jason.mydiyview.view;
 
 import android.content.Context;
 import android.util.AttributeSet;
@@ -10,7 +10,7 @@ import android.view.animation.AnimationSet;
 import android.view.animation.OvershootInterpolator;
 import android.view.animation.RotateAnimation;
 import android.view.animation.TranslateAnimation;
-import com.itheima.jason.mydiyview.R;
+import com.it.jason.mydiyview.R;
 
 /**
  * Created by jason on 2017/7/2.

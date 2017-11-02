@@ -16,7 +16,7 @@
             android:background="@mipmap/rain_bow"
             android:layout_width="200dp"
             android:layout_height="200dp">
-            <com.itheima.jason.mydiyview.view.Road
+            <com.it.jason.mydiyview.view.Road
                 android:layout_width="match_parent"
                 android:layout_height="match_parent" />
     <include layout="@layout/car"/>

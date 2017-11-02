@@ -1,4 +1,4 @@
-package com.itheima.jason.mydiyview;
+package com.it.jason.mydiyview;
 
 import android.graphics.drawable.AnimationDrawable;
 import android.os.Bundle;

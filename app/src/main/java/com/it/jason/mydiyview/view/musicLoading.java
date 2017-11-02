@@ -1,4 +1,4 @@
-package com.itheima.jason.mydiyview.view;
+package com.it.jason.mydiyview.view;
 
 import android.content.Context;
 import android.graphics.Canvas;

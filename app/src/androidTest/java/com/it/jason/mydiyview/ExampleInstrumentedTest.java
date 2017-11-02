@@ -1,4 +1,4 @@
-package com.itheima.jason.mydiyview;
+package com.it.jason.mydiyview;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

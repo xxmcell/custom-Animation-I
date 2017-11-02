@@ -1,4 +1,4 @@
-package com.itheima.jason.mydiyview.view;
+package com.it.jason.mydiyview.view;
 
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -13,7 +13,7 @@ import android.support.annotation.Nullable;
 import android.util.AttributeSet;
 import android.widget.TextView;
 
-import com.itheima.jason.mydiyview.R;
+import com.it.jason.mydiyview.R;
 
 /**
  * Created by jason on 2017/7/2.
